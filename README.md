@@ -19,7 +19,7 @@ Data collected for this project was downloaded from kaggle. It is recordings of 
 - Recall
     
     ![Recall](screenshots/recall.jpg)
-- Evaluation on test batch
+- Evaluation on a test batch
     
     ![Evaluation](screenshots/evaluation.jpg)
 
