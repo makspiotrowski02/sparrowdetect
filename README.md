@@ -45,4 +45,5 @@ In data:
 - sparrow
 - other
 
-### 5. Manually unzip archive and run the cells
+### 5. Download and unzip the data
+https://www.kaggle.com/datasets/vinayshanbhag/bird-song-data-set/data
